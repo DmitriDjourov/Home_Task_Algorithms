@@ -38,17 +38,17 @@
      a[i][j]++;
           }
      }](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/57e7e31e1148964c78505e2bf3d0d21171e725e9/HW_26092023/src/main/java/org/example/tasks.txt#L33)
-          
-    [d) 
-    for (int i = 0; i < 1000; ++i) {
-    for (int j = 1; j < n; ++j) {
-    ++count;
+     
+     [d)
+     for (int i = 0; i < 1000; ++i) {
+     for (int j = 1; j < n; ++j) {
+     ++count;
           }
-      }](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/57e7e31e1148964c78505e2bf3d0d21171e725e9/HW_26092023/src/main/java/org/example/tasks.txt#L43)
-      
-     [e)
+     }](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/1ed2fa7663991e8f8e9debebc72289f5234c0296/HW_26092023/src/main/java/org/example/tasks.txt#L43)
+     
+     e)
      for (int i = 0; i < n; ++i) {
      for (int j = 0; j < n/3; ++j) {
      matrx[i][i]++;
           }
-     }](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/57e7e31e1148964c78505e2bf3d0d21171e725e9/HW_26092023/src/main/java/org/example/tasks.txt#L52)
+     }
