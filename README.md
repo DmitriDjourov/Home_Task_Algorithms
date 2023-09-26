@@ -46,9 +46,9 @@
           }
      }](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/1ed2fa7663991e8f8e9debebc72289f5234c0296/HW_26092023/src/main/java/org/example/tasks.txt#L43)
      
-     e)
+     [e)
      for (int i = 0; i < n; ++i) {
      for (int j = 0; j < n/3; ++j) {
      matrx[i][i]++;
           }
-     }
+     }](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/1ed2fa7663991e8f8e9debebc72289f5234c0296/HW_26092023/src/main/java/org/example/tasks.txt#L52)
