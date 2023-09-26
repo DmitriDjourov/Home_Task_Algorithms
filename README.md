@@ -10,7 +10,7 @@
         1. через простой цикл
         2. через бинарный поиск
      
-## **HW_26092023** 
+## **[HW_26092023](https://github.com/DmitriDjourov/Home_Task_Algorithms/tree/main/HW_26092023/src/main/java/org/example)** 
 
 Описание задания.
 
@@ -38,7 +38,7 @@
      a[i][j]++;
           }
      }](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/57e7e31e1148964c78505e2bf3d0d21171e725e9/HW_26092023/src/main/java/org/example/tasks.txt#L33)
-     
+          
     [d) 
     for (int i = 0; i < 1000; ++i) {
     for (int j = 1; j < n; ++j) {
