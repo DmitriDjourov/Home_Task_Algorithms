@@ -52,3 +52,16 @@
      matrx[i][i]++;
           }
      }](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/1ed2fa7663991e8f8e9debebc72289f5234c0296/HW_26092023/src/main/java/org/example/tasks.txt#L52)
+
+## **[HW_10102023](https://github.com/DmitriDjourov/Home_Task_Algorithms/tree/main/HW_10102023)**
+
+1. [Оценить эффективность алгоритма решения задачи Ханойской башни,
+   предложенного на занятии (см. HanoiTower.java в репозитории)]()
+
+2. [Написать функцию sum(n, m), вычисляющую сумму тех чисел в диапазоне от 1 до n, которые делятся на m.]()
+   Например:
+   sum(7, 2) = 2 + 4 + 6 = 12
+   sum(12, 3) = 3 + 6 + 9 + 12 = 30
+   Решить задачу:
+   а) через цикл
+   б) через рекурсию

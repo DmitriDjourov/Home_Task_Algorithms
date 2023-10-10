@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="HW_19092023" />
         <module name="HW_26092023" />
+        <module name="HW_10102023" />
       </profile>
     </annotationProcessing>
   </component>
