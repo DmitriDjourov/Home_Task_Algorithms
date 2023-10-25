@@ -110,14 +110,14 @@
 ## **[HW_24102023](https://github.com/DmitriDjourov/Home_Task_Algorithms/tree/main/HW_24102023/src/main/java/org/example)**
 
 ## 1. Реализовать методы у класса CustomDynamicArray (см. код занятия в репозитории):
-   ** public void removeAt(int index)
-   ** public void shrinkSize() - сократить размер внутреннего массива до текущего числа элементов
-   ** public void set(int index, int data)
-   ** public int get(int index)
-   ** public void clear()
-   ** public boolean contains(int data)
-   ** public boolean isEmpty()
+   ** [public void removeAt(int index)](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/4ee466cc73cf9bf392e7200bc6a109fd57416596/HW_24102023/src/main/java/org/example/CustomDynamicArray.java#L60)
+   ** [public void shrinkSize()](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/4ee466cc73cf9bf392e7200bc6a109fd57416596/HW_24102023/src/main/java/org/example/CustomDynamicArray.java#L71) - сократить размер внутреннего массива до текущего числа элементов
+   ** [public void set(int index, int data)](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/4ee466cc73cf9bf392e7200bc6a109fd57416596/HW_24102023/src/main/java/org/example/CustomDynamicArray.java#L80)
+   ** [public int get(int index)](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/4ee466cc73cf9bf392e7200bc6a109fd57416596/HW_24102023/src/main/java/org/example/CustomDynamicArray.java#L87)
+   ** [public void clear()](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/4ee466cc73cf9bf392e7200bc6a109fd57416596/HW_24102023/src/main/java/org/example/CustomDynamicArray.java#L94)
+   ** [public boolean contains(int data)](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/4ee466cc73cf9bf392e7200bc6a109fd57416596/HW_24102023/src/main/java/org/example/CustomDynamicArray.java#L101)
+   ** [public boolean isEmpty()](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/4ee466cc73cf9bf392e7200bc6a109fd57416596/HW_24102023/src/main/java/org/example/CustomDynamicArray.java#L110)
 
-## 2. Добавить итератор в класс CustomDynamicArray
+## 2. Добавить [итератор](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/4ee466cc73cf9bf392e7200bc6a109fd57416596/HW_24102023/src/main/java/org/example/CustomDynamicArray.java#L197) в класс CustomDynamicArray
 
-## 3. Оценить алгоритмическую сложность всех методов в CustomDynamicArray через О-нотацию.
+## 3. [Оценить алгоритмическую сложность всех методов в CustomDynamicArray через О-нотацию.](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_24102023/src/main/java/org/example/AlgorithmicComplexity)
