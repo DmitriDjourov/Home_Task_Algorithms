@@ -125,12 +125,12 @@
 ## **[HW_31102023](https://github.com/DmitriDjourov/Home_Task_Algorithms/tree/main/HW_31102023/src/main/java/org/example)**
 
 1. Реализовать метод
-    - [search()]()
-      у написанного на занятии стека [CustomStack]() (см. код в репозитории).
-      [public int search(int element)]() -  определяет, существует ли объект в стеке.
+    - [search()](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/8b1d54b41f33b7164fd6dfc3c9142d1d4184336a/HW_31102023/src/main/java/org/example/CustomStack.java#L36)
+      у написанного на занятии стека [CustomStack](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_31102023/src/main/java/org/example/CustomStack.java#L36) (см. код в репозитории).
+      [public int search(int element)](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/8b1d54b41f33b7164fd6dfc3c9142d1d4184336a/HW_31102023/src/main/java/org/example/CustomStack.java#L39) -  определяет, существует ли объект в стеке.
       Если элемент найден, возвращает позицию элемента с вершины стека. В противном случае он возвращает -1.
 2. Реализовать методы
-    - [enqueue()](),
-    - [dequeue()](),
-    - [size()]()
-    - у класса [CustomQueue]() (заготовки методов см. в репозитории).
+    - [enqueue()](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/8b1d54b41f33b7164fd6dfc3c9142d1d4184336a/HW_31102023/src/main/java/org/example/CustomQueue.java#L15),
+    - [dequeue()](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/8b1d54b41f33b7164fd6dfc3c9142d1d4184336a/HW_31102023/src/main/java/org/example/CustomQueue.java#L25),
+    - [size()](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/8b1d54b41f33b7164fd6dfc3c9142d1d4184336a/HW_31102023/src/main/java/org/example/CustomQueue.java#L42)
+    - у класса [CustomQueue](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_31102023/src/main/java/org/example/CustomQueue.java#L42) (заготовки методов см. в репозитории).
