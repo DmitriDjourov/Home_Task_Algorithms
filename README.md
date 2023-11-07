@@ -135,7 +135,7 @@
     - [size()]()
     - у класса [CustomQueue]() (заготовки методов см. в репозитории).
 
-## **[HW_07112023](https://github.com/DmitriDjourov/Home_Task_Algorithms/tree/main/HW_07112023/src/main/java/org/example)**
+## **[HW_07112023](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_07112023/src/main/java/org/example/MyLinkedList.java)**
 
 1. Реализовать методы :
    - [public boolean removeLast(){return false}](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/8bfc93f1c77a0a0208fda2df89ee86d159c496ac/HW_07112023/src/main/java/org/example/MyLinkedList.java#L75),
