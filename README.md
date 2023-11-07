@@ -138,6 +138,6 @@
 ## **[HW_07112023](https://github.com/DmitriDjourov/Home_Task_Algorithms/tree/main/HW_07112023/src/main/java/org/example)**
 
 1. Реализовать методы :
-   - [public boolean removeLast(){return false}](),
-   - [public boolean contains(int data) {return false}](),
-   - [public int get(int index){return 0}]()
+   - [public boolean removeLast(){return false}](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/8bfc93f1c77a0a0208fda2df89ee86d159c496ac/HW_07112023/src/main/java/org/example/MyLinkedList.java#L75),
+   - [public boolean contains(int data) {return false}](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/8bfc93f1c77a0a0208fda2df89ee86d159c496ac/HW_07112023/src/main/java/org/example/MyLinkedList.java#L94),
+   - [public int get(int index){return 0}](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/8bfc93f1c77a0a0208fda2df89ee86d159c496ac/HW_07112023/src/main/java/org/example/MyLinkedList.java#L109)
