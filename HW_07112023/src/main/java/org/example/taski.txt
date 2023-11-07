@@ -1,0 +1,4 @@
+	// ДЗ Algorithms дописать (реализовать) методы :
+	public boolean removeLast(){return false},
+	public boolean contains(int data) {return false},
+	public int get(int index){return 0}

@@ -134,3 +134,10 @@
     - [dequeue()](),
     - [size()]()
     - у класса [CustomQueue]() (заготовки методов см. в репозитории).
+
+## **[HW_07112023](https://github.com/DmitriDjourov/Home_Task_Algorithms/tree/main/HW_07112023/src/main/java/org/example)**
+
+1. Реализовать методы :
+   - [public boolean removeLast(){return false}](),
+   - [public boolean contains(int data) {return false}](),
+   - [public int get(int index){return 0}]()
