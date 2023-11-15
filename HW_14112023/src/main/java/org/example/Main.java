@@ -4,16 +4,14 @@ public class Main {
 		public static void main(String[] args) {
 // В двоичном дереве поиска SearchTree (см. код в репозитории), реализовать метод public String getMaxKey(),
 // который возвращал бы наибольший ключ, находящийся в дереве.
+				SearchTree tree = new SearchTree();
+				tree.add("C", 10);
+				tree.add("A", 5);
+				tree.add("B", 2);
+				tree.add("F", 100);
+				tree.add("K", 100);
+				tree.add("X", 100);
 
-				SeatchTree tree = new SeatchTree();
-				tree.instrt(5);
-				tree.instrt(3);
-				tree.instrt(7);
-				tree.instrt(2);
-				tree.instrt(4);
-				tree.instrt(6);
-				tree.instrt(8);
-
-				System.out.println("Самый большой ключ :" + tree.getMaxKey());
+				System.out.println("Наибольший ключ: " + tree.getMaxKey());
 		}
 }
