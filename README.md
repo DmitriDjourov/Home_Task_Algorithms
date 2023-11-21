@@ -148,3 +148,7 @@
  В двоичном дереве поиска [SearchTree](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_14112023/src/main/java/org/example/SearchTree.java) (см. код в репозитории), реализовать [метод public String getMaxKey()](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/bd14e1f2e5ded47dcad6091a8ecddc84c2d1b8a0/HW_14112023/src/main/java/org/example/SearchTree.java#L99),
  который возвращал бы наибольший ключ, находящийся в дереве.
 
+## **[HW_21112023]()**
+
+1 уровень сложности:
+[Написать метод для вычисления высоты дерева SearchTree (см. код в репозитории)]()
