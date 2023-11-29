@@ -153,8 +153,8 @@
 1 уровень сложности:
 [Написать метод для вычисления высоты дерева SearchTree (см. код в репозитории)](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/2ebea6ad0022f88546bbeb77bef45243a77eb850/HW_21112023/src/main/java/org/example/CustomQueue.java#L46)
 
-## **[HW_28112023]()**
+## **[HW_28112023](https://github.com/DmitriDjourov/Home_Task_Algorithms/tree/main/HW_28112023/src/main/java/org/example)**
 
 1 уровень сложности:
-1. Для класса [Book с полями String name, double price, boolean isPresent]()
-   реализовать методы [equals(Object o)](), [hashCode()](), [compareTo(Book another)]().
+1. Для класса [Book с полями String name, double price, boolean isPresent](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_28112023/src/main/java/org/example/Book.java)
+   реализовать методы [equals(Object o)](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/a77cb97d625e42dc88955dbfeb71d9c1fa33bbd9/HW_28112023/src/main/java/org/example/Book.java#L23C20-L23C20), [hashCode()](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/a77cb97d625e42dc88955dbfeb71d9c1fa33bbd9/HW_28112023/src/main/java/org/example/Book.java#L31), [compareTo(Book another)](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/a77cb97d625e42dc88955dbfeb71d9c1fa33bbd9/HW_28112023/src/main/java/org/example/Book.java#L37).
