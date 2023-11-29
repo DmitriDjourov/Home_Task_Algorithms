@@ -152,3 +152,9 @@
 
 1 уровень сложности:
 [Написать метод для вычисления высоты дерева SearchTree (см. код в репозитории)](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/2ebea6ad0022f88546bbeb77bef45243a77eb850/HW_21112023/src/main/java/org/example/CustomQueue.java#L46)
+
+## **[HW_28112023]()**
+
+1 уровень сложности:
+1. Для класса [Book с полями String name, double price, boolean isPresent]()
+   реализовать методы [equals(Object o)](), [hashCode()](), [compareTo(Book another)]().
