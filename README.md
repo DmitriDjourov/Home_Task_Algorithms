@@ -158,3 +158,18 @@
 1 уровень сложности:
 1. Для класса [Book с полями String name, double price, boolean isPresent](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_28112023/src/main/java/org/example/Book.java)
    реализовать методы [equals(Object o)](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/a77cb97d625e42dc88955dbfeb71d9c1fa33bbd9/HW_28112023/src/main/java/org/example/Book.java#L23C20-L23C20), [hashCode()](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/a77cb97d625e42dc88955dbfeb71d9c1fa33bbd9/HW_28112023/src/main/java/org/example/Book.java#L31), [compareTo(Book another)](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/a77cb97d625e42dc88955dbfeb71d9c1fa33bbd9/HW_28112023/src/main/java/org/example/Book.java#L37).
+
+## **[HW_05122023](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_05122023/src/main/java/org/example)**
+
+1 уровень сложности:
+1. Сгруппируйте слова с одинаковым набором символов
+Дан список слов со строчными буквами. Реализуйте функцию поиска всех слов с одинаковым уникальным набором символов.
+
+Input: String words[] = {"student", "students", "dog", "god", "cat", "act", "flow", "wolf", "tact"};
+Output :
+student, students
+cat, act, tact
+dog, god
+flow, wolf
+(Набор букв 1 группы: s, t, u, d, e, n, t; 2 группы: a, c, t; 3 группы: d, o, g; 4 группы: f, l, o, w)
+Группы слов функция возвращает в виде List>, либо сразу печатает в консоль.
