@@ -177,7 +177,7 @@ flow, wolf
 ## **[HW_12122023](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_12122023/src/main/java/org/example)**
 
 1. [Имея два отсортированных массива размера m и n соответственно, вам нужно найти элемент, который будет находиться 
-   на k-й позиции в конечном отсортированном массиве.]()
+   на k-й позиции в конечном отсортированном массиве.](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_12122023/src/main/java/org/example/KthElementInSortedArrays.java)
    Массив 1 - 100 112 256 349 770
    Массив 2 - 72 86 113 119 265 445 892
    к = 7
@@ -187,7 +187,7 @@ flow, wolf
    7-й элемент этого массива равен 256.
 
 2. [Имея отсортированный массив arr[] и число x, напишите функцию, которая подсчитывает вхождения 
-   x в arr[] (сколько раз число x встречается в массиве).]()
+   x в arr[] (сколько раз число x встречается в массиве).](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_12122023/src/main/java/org/example/CountOccurrences.java)
    Ожидаемая временная сложность O(log n)
    arr[] = {1, 1, 2, 2, 2, 2, 3,}
    x = 2
