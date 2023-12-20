@@ -195,8 +195,8 @@ flow, wolf
 
 ## **[HW_19122023](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_19122023/src/main/java/org/example)**
 
-1. [Написать метод проверки isSorted(), является ли данный массив отсортированным.]()
+1. [Написать метод проверки isSorted(), является ли данный массив отсортированным.](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_19122023/src/main/java/org/example/ArraySortChecker.java)
 
-2. [Написать метод случайного перемешивания данных в массиве.]()
+2. [Написать метод случайного перемешивания данных в массиве.](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_19122023/src/main/java/org/example/ArrayShuffler.java)
    - Input:  1, 2, 2, 3, 4
    - Output: 2, 1, 2, 4, 3
