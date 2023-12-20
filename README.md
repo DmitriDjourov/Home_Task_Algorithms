@@ -192,3 +192,11 @@ flow, wolf
    arr[] = {1, 1, 2, 2, 2, 2, 3,}
    x = 2
    Вывод: 4 раза
+
+## **[HW_19122023](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_19122023/src/main/java/org/example)**
+
+1. [Написать метод проверки isSorted(), является ли данный массив отсортированным.]()
+
+2. [Написать метод случайного перемешивания данных в массиве.]()
+   - Input:  1, 2, 2, 3, 4
+   - Output: 2, 1, 2, 4, 3
