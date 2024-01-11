@@ -200,3 +200,21 @@ flow, wolf
 2. [Написать метод случайного перемешивания данных в массиве.](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_19122023/src/main/java/org/example/ArrayShuffler.java)
    - Input:  1, 2, 2, 3, 4
    - Output: 2, 1, 2, 4, 3
+
+## **[HW_11012024](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_11012024/src/main/java/org/example)**
+
+1. [Найти k-ый по величине элемент неотсортированного массива.](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_11012024/src/main/java/org/example/KthElementInUnsortedArray.java)
+   - Входные данные: Integer[] data = {1, 3, 1, 5, 0, 7, 8};
+   - Результат:
+   - k = 0
+   - findSmallest(data, k)=0 (min)
+   - k = 1
+   Результат: findSmallest(data, k)=1
+   - k = 6
+   Результат: findSmallest(data, k)=8 (max)
+   - Решить задачу через адаптацию алгоритма сортировки quicksort
+
+2. [Написать свою реализацию алгоритма пузырьковой сортировки (bubble sort) или сортировки вставками (insertion sort)(выбрать по желанию)](https://github.com/DmitriDjourov/Home_Task_Algorithms/blob/main/HW_11012024/src/main/java/org/example/BubbleSort.java)
+   - Метод пузырьковой сортировки
+      - x = 2
+      - Вывод: 4 раза
